@@ -1,0 +1,1 @@
+This is an event for all of us to learn about Open source.
